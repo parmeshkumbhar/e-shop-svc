@@ -1,5 +1,7 @@
 # e-shop-svc
-==========================================================================
+============
+
+
 My requirements are as follows:
 -------------------------------
 1. I want to get the list of all the products across all the categories
@@ -10,7 +12,7 @@ My requirements are as follows:
 6. I should be able to get the available stock details across products. This should consider the dummy orders placed and return stocks accordingly. 
 7. I should be able to delete the dummy order(s)
 
-==========================================================================
+
 Products.csv
 ------------
 Category,Company,Product,Color,Description,Price,Discount %,No. of items in stock
@@ -23,7 +25,7 @@ Computers,Lenovo,LL1,Black,Some description about LL2,80000,10,138
 Television,LG,LT1,Black,Some description about LT1,42500,8,62
 Television,Samsung,ST1,Grey,Some description about ST1,58360,16,168
 
-==========================================================================
+
 Furthermore: 
 ------------
 Assume that as a developer, just when you started building this application -  
